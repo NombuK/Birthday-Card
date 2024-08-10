@@ -2,7 +2,7 @@
 body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
-    background: url("/images/bday2.avif");
+    background: url("/bday2.avif");
     background-size: 400px;
     color: black;
 }
@@ -73,36 +73,36 @@ h1{
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("images/bnw.jpg");
+    background-image: url("/bnw.jpg");
     background-size: cover;
 }
 
 #gift-img-happy:hover {
-    background-image: url("images/happy.gif");
+    background-image: url("/happy.gif");
 }
 
 #gift-img-hot:hover {
-    background-image: url("/images/love.webp");
+    background-image: url("/love.webp");
 }
 
 #gift-img-genius:hover {
-    background-image: url("images/genius.gif");
+    background-image: url("/genius.gif");
 }
 
 #gift-img-amazing:hover {
-    background-image: url("/images/amazing.webp");
+    background-image: url("/amazing.webp");
     background-repeat:repeat ;
     margin-top: 20px;
     background-size: 500px;
 }
 
 #gift-img-cheers:hover {
-    background-image: url("images/cheers.gif");
+    background-image: url("/cheers.gif");
 
 }
 
 #gift-img-bdy:hover {
-    background-image: url("/images/hppybday.webp");
+    background-image: url("/hppybday.webp");
     }
 #footer {
     font-style: italic;
